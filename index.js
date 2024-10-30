@@ -295,7 +295,7 @@ server.on("upgrade", (req, socket, head) => {
   }
 });
 
-let port = parseInt(process.env.PORT || "");
+let port = parseInt(process.env.PORT || 3000);
 
 if (isNaN(port)) port = 80;
 
