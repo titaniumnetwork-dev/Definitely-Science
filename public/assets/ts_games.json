@@ -13,8 +13,8 @@
       "enabled": "1"
    },
    {
-      "name": "Pixelmon Town",
-      "description": "Pixelmon Town in your browser",
+      "name": "Eaglercraft Town",
+      "description": "Eaglercraft Town in your browser",
       "article": "/assets/articles/minecraft.txt",
       "image": "/assets/images/icons/minecraft.avif",
       "mobileimage": null,
@@ -22,7 +22,33 @@
       "tags": "multiplayer",
       "date_added": "2022-09-04 22:35:18",
       "developer": "lax1dude",
-      "iframe_url": "/assets/games/2025/html/pixelmon-town/index.html",
+	  "iframe_url": "/assets/games/2024/more/eaglercraft/index.html",
+      "enabled": "1"
+   },
+   {
+      "name": "Pixelmon Town",
+      "description": "Pixelmon Town in your browser",
+      "article": "/assets/articles/minecraft.txt",
+      "image": "/assets/images/icons/minecraft.avif",
+      "mobileimage": null,
+      "controls": "WASD to move, space to jump",
+      "tags": "",
+      "date_added": "2022-09-04 22:35:18",
+      "developer": "lax1dude",
+	  "iframe_url": "/assets/games/2025/html/pixelmon-town/index.html",
+      "enabled": "1"
+   },
+   {
+      "name": "Undertale Scratch Remake",
+      "description": "[Instructions];\n　[Z] - Confirm;\n　[X] - Cancel;\n　[C] - Menu (In-game);\n　[F11] - Fullscreen;\n　[Hold Q] - Quit;\n　When HP is 0, you lose.",
+      "article": null,
+      "image": "/assets/images/games/2025/scratch/undertale.webp",
+      "mobileimage": null,
+      "controls": "",
+      "tags": "2d,pixel",
+      "date_added": "2022-01-13 03:19:02",
+      "developer": "BluePheonix25",
+      "iframe_url": "/assets/games/2025/scratch/undertale-scratch/index.html",
       "enabled": "1"
    },
    {
@@ -1781,6 +1807,19 @@
       "enabled": "1"
    },
    {
+      "name": "Brawl Stars Simulator",
+      "description": "Brawl Stars Simulator",
+      "article": null,
+      "image": "/assets/images/games/2025/more-gg/brave-stars/brave-stars.webp",
+      "mobileimage": "/assets/images/games/2025/more-gg/brave-stars/brave-stars.webp",
+      "controls": "Mouse",
+      "tags": "misc,scary",
+      "date_added": "2023-05-31 12:51:14",
+      "developer": "UNKNOWN",
+      "iframe_url": "/assets/games/2025/more-gg/brave-stars/index.html",
+      "enabled": "1"
+   },
+   {
       "name": "Happy Room",
       "description": "Here tests are taken upon highly durable robots using the newest weapon technologies.",
       "article": null,
@@ -2990,6 +3029,32 @@
       "enabled": "1"
    },
    {
+      "name": "Google",
+      "description": "The Google Search website is accessible at www.google.com. This is the main page for Google's search engine, where users can enter queries to search the web for information, images, news, videos, and more.",
+      "article": null,
+      "image": "/assets/images/icons/apps/google512.jpg",
+      "mobileimage": null,
+      "controls": "Mouse and keyboard",
+      "tags": "app",
+      "date_added": "2022-01-13 03:19:02",
+      "developer": "Alphabet",
+      "iframe_url": "https://www.google.com",
+      "enabled": "1"
+   },
+   {
+      "name": "DuckDuckGo",
+      "description": "Ducks",
+      "article": null,
+      "image": "/assets/images/icons/apps/duckduckgo.jpg",
+      "mobileimage": null,
+      "controls": "Mouse and keyboard",
+      "tags": "app",
+      "date_added": "2022-01-13 03:19:02",
+      "developer": "duckduckgo",
+      "iframe_url": "https://duckduckgo.com/",
+      "enabled": "1"
+   },
+   {
       "name": "Mathway",
       "description": "Mathway is an online platform and mobile app that provides step-by-step solutions to a wide range of mathematical problems. The website and app cater to various levels of math, from basic arithmetic to advanced calculus.",
       "article": null,
@@ -3013,19 +3078,6 @@
       "date_added": "2022-01-13 03:19:02",
       "developer": "Chegg",
       "iframe_url": "https://www.onlinegames.io/",
-      "enabled": "1"
-   },
-   {
-      "name": "Science",
-      "description": "Discover endless entertainment with Science Unblocked \u2013 your top choice for unblocked games accessible from school or work.",
-      "article": null,
-      "image": "/assets/images/icons/apps/scienceunblocked512.jpg",
-      "mobileimage": null,
-      "controls": "Mouse and keyboard",
-      "tags": "app",
-      "date_added": "2022-01-13 03:19:02",
-      "developer": "Lich",
-      "iframe_url": "https://scienceunblocked.com/",
       "enabled": "1"
    },
    {
@@ -3055,19 +3107,6 @@
       "enabled": "1"
    },
    {
-      "name": "Fortnite",
-      "description": "Fortnite is a popular online video game developed by Epic Games, first released in 2017. It is available in three distinct game modes that share the same general gameplay and game engine: (1) Save the World: This is a cooperative hybrid tower defense-shooter-survival game where up to four players fight off zombie-like creatures and defend objects using traps and fortifications they can build. It was the original mode released and is available for purchase. (2) Fortnite Battle Royale: This is a free-to-play battle royale game where up to 100 players fight to be the last person standing. Players can either play solo, in a duo, or in squads of up to four players. The game includes various weapons, items, and materials that players can collect and use to defeat opponents and build structures for defense or mobility. (3) Fortnite Creative: In this mode, players are given complete freedom to create worlds and battle arenas. It's a sandbox mode where creativity is key, and players can design their own games and share them with others.",
-      "article": null,
-      "image": "/assets/images/icons/apps/fortnite-512.jpg",
-      "mobileimage": null,
-      "controls": "Mouse and keyboard",
-      "tags": "enigma",
-      "date_added": "2022-01-13 03:19:02",
-      "developer": "Epic Games",
-      "iframe_url": "https://www.nvidia.com/en-us/geforce-now/",
-      "enabled": "1"
-   },
-   {
       "name": "Google",
       "description": "The Google Search website is accessible at www.google.com. This is the main page for Google's search engine, where users can enter queries to search the web for information, images, news, videos, and more.",
       "article": null,
@@ -3081,16 +3120,16 @@
       "enabled": "1"
    },
    {
-      "name": "Youtube",
-      "description": "YouTube is a global online video-sharing and social media platform where users can upload, view, share, and comment on videos. It hosts a wide variety of content, including music videos, educational videos, vlogs, live streams, short films, documentaries, and much more. Users can also subscribe to channels, create playlists, and interact with other users through comments and likes.",
+      "name": "DuckDuckGo",
+      "description": "Ducks",
       "article": null,
-      "image": "/assets/images/icons/apps/youtube512.jpg",
+      "image": "/assets/images/icons/apps/duckduckgo.jpg",
       "mobileimage": null,
       "controls": "Mouse and keyboard",
       "tags": "enigma",
       "date_added": "2022-01-13 03:19:02",
-      "developer": "Alphabet",
-      "iframe_url": "https://www.youtube.com/",
+      "developer": "duckduckgo",
+      "iframe_url": "https://duckduckgo.com/",
       "enabled": "1"
    },
    {
@@ -3104,6 +3143,19 @@
       "date_added": "2022-01-13 03:19:02",
       "developer": "Discord Inc.",
       "iframe_url": "https://discord.com/",
+      "enabled": "1"
+   },
+   {
+      "name": "Fortnite",
+      "description": "Fortnite is a popular online video game developed by Epic Games, first released in 2017. It is available in three distinct game modes that share the same general gameplay and game engine: (1) Save the World: This is a cooperative hybrid tower defense-shooter-survival game where up to four players fight off zombie-like creatures and defend objects using traps and fortifications they can build. It was the original mode released and is available for purchase. (2) Fortnite Battle Royale: This is a free-to-play battle royale game where up to 100 players fight to be the last person standing. Players can either play solo, in a duo, or in squads of up to four players. The game includes various weapons, items, and materials that players can collect and use to defeat opponents and build structures for defense or mobility. (3) Fortnite Creative: In this mode, players are given complete freedom to create worlds and battle arenas. It's a sandbox mode where creativity is key, and players can design their own games and share them with others.",
+      "article": null,
+      "image": "/assets/images/icons/apps/fortnite-512.jpg",
+      "mobileimage": null,
+      "controls": "Mouse and keyboard",
+      "tags": "enigma",
+      "date_added": "2022-01-13 03:19:02",
+      "developer": "Epic Games",
+      "iframe_url": "https://www.nvidia.com/en-us/geforce-now/",
       "enabled": "1"
    },
    {
