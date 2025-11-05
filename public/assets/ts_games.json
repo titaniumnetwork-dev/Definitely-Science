@@ -1,4 +1,17 @@
 [
+	{
+      "name": "AI Chat",
+      "description": "Free AI Chat",
+      "article": null,
+      "image": "/assets/images/games/2025/html2/ai-chat/ai-chat512.webp",
+      "mobileimage": null,
+      "controls": "Mouse and keyboard",
+      "tags": "featured,enigma",
+      "date_added": "2022-01-13 03:19:02",
+      "developer": "FreezeNova",
+      "iframe_url": "/assets/games/2025/html2/ai-chat/index.html",
+      "enabled": "1"
+   },
    {
       "name": "Football King",
       "description": "Football King is an unblocked two-player game in which you can enjoy the thrill of a soccer match with a friend. Choose from quick, friendly matches, tournament options, and a variety of stadiums. Your new favorite soccer game will be Football King!",
@@ -3026,19 +3039,6 @@
       "date_added": "2022-03-03 02:19:54",
       "developer": "CraftedVRTX",
       "iframe_url": "https://zombsroyale.io/",
-      "enabled": "1"
-   },
-   {
-      "name": "Google",
-      "description": "The Google Search website is accessible at www.google.com. This is the main page for Google's search engine, where users can enter queries to search the web for information, images, news, videos, and more.",
-      "article": null,
-      "image": "/assets/images/icons/apps/google512.jpg",
-      "mobileimage": null,
-      "controls": "Mouse and keyboard",
-      "tags": "app",
-      "date_added": "2022-01-13 03:19:02",
-      "developer": "Alphabet",
-      "iframe_url": "https://www.google.com",
       "enabled": "1"
    },
    {
